@@ -1,0 +1,2 @@
+# flaskProj
+min Flask project
