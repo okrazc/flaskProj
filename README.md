@@ -1,2 +1,2 @@
 # flaskProj
-min Flask project
+Minimal Flask project
